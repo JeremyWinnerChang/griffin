@@ -78,7 +78,7 @@ Select the target dataset and fields which will be used for comparision.
 3)      Mapping source and target
 
 - Step1:  On the left side of the page,select a prime key in “PK” column.
-- Step2:  Then, select whcih rule to match the source and the target. Here are 5 options to choose:
+- Step2:  Then, select which rule to match the source and the target. Here are 5 options to choose:
   1. Exactly match: each column in the two columns should be 100% matched.
   2. Length: only match whether the length of the two colums is the same.
   3. Lower case: all the characters wiil be set in lower case, and then compare whether they are the same.
